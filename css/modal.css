@@ -193,11 +193,7 @@
 }
 
 .modal-textarea::placeholder {
-    color: rgba(117, 117, 0.5);
-}
-
-.modal-checkbox-field {
-    margin-bottom: 24px;
+    color: rgba(46, 47, 66, 0.4);
 }
 
 .modal-checkbox-label {
